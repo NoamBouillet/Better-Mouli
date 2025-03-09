@@ -6,7 +6,7 @@ This extension is only available on Firefox, other extensions are on the way
 ```sh
 git clone git@github.com:NoamBouillet/Better-Mouli.git
 ```
-- Go to [firefox' extensions](about:debugging#/runtime/this-firefox).
+- Go to firefox' extensions (about:debugging#/runtime/this-firefox).
 
 - Click on "Load a temporary extension".
 
