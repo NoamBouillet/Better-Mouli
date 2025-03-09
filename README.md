@@ -4,8 +4,8 @@ An enhanced and fun version of my.epitech.eu that boosts your experience with op
 
 # Features:
 
-## Optimized Time Rendering: We’ve fine-tuned the loading and rendering times for a smoother, faster experience. Say goodbye to lag and delays!
-## Improved Colors: We’ve revamped the color scheme to make everything look fresher and easier on the eyes. Get ready for a vibrant, modern feel.
+Optimized Time Rendering: We’ve fine-tuned the loading and rendering times for a smoother, faster experience. Say goodbye to lag and delays!
+Improved Colors: We’ve revamped the color scheme to make everything look fresher and easier on the eyes. Get ready for a vibrant, modern feel.
 
 ### Credits:
 
