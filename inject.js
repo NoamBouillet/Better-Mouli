@@ -24,7 +24,6 @@ browser.storage.onChanged.addListener((changes) => {
 
 const styles = `
 .epi-percentage-container {
-  margin-top: 10px;
   width: 100%;
   font-family: 'Roboto', sans-serif;
   display: flex;
@@ -80,14 +79,6 @@ const styles = `
 
 .epi-skill-status {
   font-weight: 500;
-}
-
-.epi-skill-passed {
-  color: #4caf50;
-}
-
-.epi-skill-failed {
-  color: #f44336;
 }
 
 .epi-expand-btn {
